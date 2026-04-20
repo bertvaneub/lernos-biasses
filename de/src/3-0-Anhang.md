@@ -4,19 +4,24 @@
 
 Ein großer Dank an die vielen Projekte und Vorarbeiten, die die Erstellung und Verwaltung von lernOS Leitfäden ermöglichen.
 Explizit gilt der Dank auch  
-- Gabriele Petrat für das Interesse und die Ermutigung
-- Simon Dückert für lernOS
-- Marianne Windelband, Marcel Kirchner und Ralph Bleckmann für die Anregungen und Kommentare
 
+- Simon Dückert für lernOS
 
 ## Änderungshistorie
 
 | Version | Bearbeitet von     | Beschreibung Änderung                            | Datum      |
 | ------- | ------------------ | ------------------------------------------------ | ---------- |
-| 0.1     | Jan Bretschneider  | Erste Version des "Problem-Solving"-Repositories | 07.05.2023 |
-| 0.2     | Jan Bretschneider  | Zweite Version mit ersten Fehlerkorrekturen      | 22.05.2024 |
+| alpha   | Jan Bretschneider  | Rahmen des Leitfadens                            | 20.04.2026 |
 
 ## Glossar
+
+**B** 
+
+Beurteilungsfehler
+: TBD
+
+Bias
+Hier gleichbedeutend mit Beurteilungsfehler
 
 **L**
 
@@ -36,11 +41,3 @@ lernOS
 
 Peer
 : Aus dem Englischen "peer" = ebenbürtige, gleichartige Person. Eine Person, die zur gleichen Zeit das gleiche Lernziel wie Du verfolgt. Eine Person, mit der Du zusammen den Lernpfad beschreitest.
-
-Problem
-: Ein Problem zu haben ist ein Zustand, in dem ein zu erreichendes Ziel (noch) nicht erreicht wurde und in dem die Art und Weise der Zielerreichung (noch) nicht klar ist.
-
-**8**
-
-8D-Report
-: Mit dem “8D-Report” wird in der Automobilindustrie üblicherweise gegenüber den Kunden dokumentiert, wie bei der Problemlösung vorgegangen wurde. Es ist eine Berichtsform über den Problemlösungsprozess.
