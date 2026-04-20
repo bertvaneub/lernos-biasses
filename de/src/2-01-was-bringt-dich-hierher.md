@@ -1,6 +1,6 @@
 ## 1 - Was bringt Dich hierher?
 
-Im ersten Abschnitt geht es inhaltlich los. Startpunkt ist eine kritische Reflektion des status quo. Die erste Bestandsaufnahme aus dem “Abschnitt 0” wird hier aufgenommen und im Hinblick auf das Thema Problemlösung noch einmal konkretisiert.
+Im ersten Abschnitt geht es inhaltlich los. Startpunkt ist eine kritische Reflektion des status quo. Die erste Bestandsaufnahme aus dem “Abschnitt 0” wird hier aufgenommen und im Hinblick auf das Thema Beurteilungsfehler noch einmal konkretisiert.
 
 ### Kata 1.1 - Dein Startpunkt
 
