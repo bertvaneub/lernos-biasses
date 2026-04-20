@@ -1,4 +1,4 @@
-site_name: lernOS Problem strukturiert lösen Leitfaden
+site_name: lernOS Beurteilungsfehler Leitfaden
 site_url: https://cogneon.github.io/
 docs_dir: src
 site_dir: ../docs/de
@@ -8,17 +8,6 @@ nav:
     - Grundlagen: 1-0-Grundlagen.md
     - Lernpfad:
       - Überblick: 2-00-Lernpfad.md
-      - Was bringt Dich hierher: 2-01-was-bringt-dich-hierher.md
-      - Das Problem beschreiben: 2-02-beschreibe-dein-problem-ausfuehrlich.md
-      - Probleme einteilen: 2-03-probleme-lassen-sich-einteilen.md
-      - Problemlösung im Team: 2-04-problemloesung-im-team.md
-      - Korrekturmaßnahmen: 2-05-korrekturmassnahmen.md
-      - Ursachenanalyse 1: 2-06-ursachenanalyse-methodenbaukasten-1.md
-      - Ursachenanalyse 2: 2-07-ursachenanalyse-methodenbaukasten-2.md
-      - Finden und Umsetzen von Lösungen: 2-08-finden-und-umsetzen-von-loesungen.md
-      - Woher erkenne ich, dass eine Lösung erfolgreich ist: 2-09-woher-erkenne-ich-dass-eine-loesung-erfolgreich-ist.md
-      - Transfer: 2-10-transfer.md
-      - Feiern: 2-11-feiern.md
       - Retrospektive: 2-12-retrospektive.md
     - Anhang: 3-0-Anhang.md
     - Download:
